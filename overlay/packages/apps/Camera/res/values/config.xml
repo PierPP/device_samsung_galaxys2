@@ -24,9 +24,6 @@
     <bool name="needsSamsungCamMode">true</bool>
     <!-- Samsung Camera Settings -->
     <bool name="hasSamsungCamSettings">true</bool>
-<<<<<<< HEAD
-=======
     <!-- Restart the preview on picture taken -->
     <bool name="restartPreviewOnPictureTaken">true</bool>
->>>>>>> upstream/ics
 </resources>
